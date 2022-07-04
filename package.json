@@ -1,0 +1,21 @@
+{
+  "name": "node red project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ns",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "express": "^4.17.1",
+    "jsonld": "file:../../nrc/jsonld",
+    "jsonpath": "^1.1.1",
+    "node-red": "^2.0.3",
+    "node-red-contrib-jsonpath": "^0.1.1",
+    "schematron": "file:../../nrc/schematron",
+    "spfjson": "file:../../nrc/spfJson"
+  }
+}

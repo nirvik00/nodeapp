@@ -1,0 +1,27 @@
+[
+	{
+		"type": "Door",
+		"color": "rgb(255, 120, 0)",
+		"opacity": 0.15
+	},
+	{
+		"type": "Slab",
+		"color": "rgb(225, 220, 200)",
+		"opacity": 0.95
+	},
+	{
+		"type": "WallStandardCase",
+		"color": "rgb(220, 200, 155)",
+		"opacity": 0.90
+	},
+	{
+		"type": "Window",
+		"color": "rgb(25, 0, 240)",
+		"opacity": 0.5
+	},
+	{
+		"type": "Space",
+		"color": "rgb(0, 0, 200)",
+		"opacity": 0.15
+	}
+]
